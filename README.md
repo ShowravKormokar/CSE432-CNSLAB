@@ -27,10 +27,9 @@ This repository is created to:
 ## 📌 Note
 
 This repository is mainly for academic learning and personal practice.  
-Feel free to explore and learn from the code.
+Feel free to explore and learn from the code. ❌ No private information here, that break the university rules and regulation. Thank you!💀
 
 ---
 
-👤 **Author:** Showrav Kormokar  
+👤 **Author:** Showrav Kormokar® ||  © 2026
 📖 **Course:** CSE432 – Cryptography and Network Security Lab
-❌ **Notice:** No private information here, that brakes the university rules and regulation . Thank you!💀
